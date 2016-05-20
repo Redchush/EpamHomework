@@ -68,8 +68,6 @@
 		</xsd:complexType>
 	</xsd:element>
 
-
-
 <!-- complexType, that is used by both servlet and filter elements-->
 
 	<xsd:complexType name = "init-paramType">
